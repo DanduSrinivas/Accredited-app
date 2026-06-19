@@ -1,0 +1,6 @@
+{
+  "name": "Institutional Portal",
+  "description": "Institutional portal for accreditation tracking, report editing, evidence repository, and gap analysis heatmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
